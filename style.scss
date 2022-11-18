@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: 'Ubuntu';
+    background-color: #E0E0E0;
+}
+.message{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.title-contenent{
+    display: flex;
+    justify-content: center;
+    .title{
+        display: inline-block;
+        padding: 1rem;
+        margin-top: 40px;
+        border: solid rgb(106, 255, 225);
+        border-radius: 9px;
+        border-radius: 12px;
+        background: linear-gradient(145deg, #f0f0f0, #cacaca);
+        box-shadow:  5px 5px 10px #5a5a5a,
+                    -5px -5px 10px #ffffff;
+    
+    }
+}
+
+
+main{
+    
+    div.game{
+        align-items: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        display: grid;
+        grid-template-columns: repeat(16, 1fr);
+        margin-left: 10%;
+        margin-right: 10%;
+        gap: 3%;
+        border: solid rgb(251, 202, 255);
+        border-radius: 9px;
+        border-radius: 12px;
+        background: linear-gradient(145deg, #f0f0f0, #cacaca);
+        box-shadow:  5px 5px 10px #5a5a5a,
+                    -5px -5px 10px #ffffff;
+    }
+    
+}
+
+.baton{
+    height: 3.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    border: solid rgb(94, 204, 255);
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    box-shadow:  5px 5px 10px #5a5a5a,
+                -5px -5px 10px #ffffff;
+                
+
+}
+
+
+.click{
+    border: #5a5a5a;
+    border-radius: 7px;
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    box-shadow:  5px 5px 10px #5a5a5a,
+                    -5px -5px 10px #ffffff;
+    padding: 10px;
+}
+
+.button{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+}
+
+
+.content{
+    .flex{
+        
+        display: flex;
+        .j{
+            padding: 0.3rem;
+            border-radius: 9px;
+            background: #e0e0e0;
+            box-shadow: inset 5px 5px 10px #c3c3c3,
+                inset -5px -5px 10px #fdfdfd;
+        }
+        .player{
+            padding: 0.3rem;
+            border-radius: 9px;
+            background: linear-gradient(145deg, #f0f0f0, #cacaca);
+            box-shadow:  5px 5px 10px #5a5a5a,
+                    -5px -5px 10px #ffffff;
+        }
+        
+    }
+    .stick-owned{
+        padding: 0.3rem;
+        border-radius: 9px;
+        background: linear-gradient(145deg, #f0f0f0, #cacaca);
+        box-shadow:  5px 5px 10px #5a5a5a,
+                -5px -5px 10px #ffffff;
+    }
+    
+
+        
+    }
+
+    
