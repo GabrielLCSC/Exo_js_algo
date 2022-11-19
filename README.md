@@ -1,4 +1,4 @@
-# 📝 exercices d'algorithmie en javascript
+# 📝 algorithmic exercises in javascript
 
 first exercice - "taxi.js"
 
