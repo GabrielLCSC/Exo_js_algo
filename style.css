@@ -20,9 +20,8 @@
   display: inline-block;
   padding: 1rem;
   margin-top: 40px;
-  border: solid rgb(106, 255, 225);
+  border: solid rgb(255, 106, 250);
   border-radius: 9px;
-  border-radius: 12px;
   background: linear-gradient(145deg, #f0f0f0, #cacaca);
   box-shadow: 5px 5px 10px #5a5a5a, -5px -5px 10px #ffffff;
 }
